@@ -1,0 +1,1 @@
+node with high power consumption -> high rank
